@@ -1,4 +1,4 @@
 # firebase-chat-app with email notifications 
 
 
-Live Demo: firebasechatappdemo.netlify.app
+Live Demo: <a href="firebasechatappdemo.netlify.app">firebasechatappdemo.netlify.app</a>
